@@ -1,0 +1,2 @@
+nodeSelector:
+  worker.platform/type: managed
